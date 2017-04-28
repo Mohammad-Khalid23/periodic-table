@@ -1,0 +1,43 @@
+body{
+background-color: #000000;
+}
+th,td{
+    color: #ffffff;
+}
+.H,.He{
+    background-color: rgb(0, 182, 188);
+}
+
+.Li,.K,.Na,.Rb,.Cs,.Fr{
+background-color: #1b67c9;
+}
+.Be,.Mg,.Ca,.Sr,.Ba,.Ra{
+background-color: rgb(161, 102, 160);
+}
+.red{
+    background-color:#f53951;
+}
+.purple{
+    background-color: #572e56;
+}
+.deep-blue{
+    background-color: #004e75;
+}
+.grey{
+    background-color: #859998;
+}
+.He,.Ne,.Ar,.Kr,.Xe,.Rn{
+    background-color: #329090;
+}
+.B,.Si,.Ge,.As,.Sb,.Te,.Po{
+background-color:#f5b659;
+}
+.C,.N,.O,.P,.S,.Se{
+background-color: #00b6bc;
+}
+.Al,.Ga,.In,.Sn,.Tl,.Pb,.Bi{
+background-color: #f36d48;
+}
+.F,.Cl,.Br,.I,.At{
+background-color: #59cf6e;
+}
